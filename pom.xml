@@ -95,7 +95,7 @@
                 <configuration>
                     <rulesets>
                         
-                        <ruleset>/rulesets/basic.xml</ruleset>
+                        <ruleset>basic.xml</ruleset>
                         
                     </rulesets>
                 </configuration>
