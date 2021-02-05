@@ -11,6 +11,12 @@
   <name>spring-boot</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
+ 
+  groupId>io.springboot.first</groupId>
+  <artifactId>spring-boot</artifactId>
+  <packaging>war</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <name>Spring Project</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
